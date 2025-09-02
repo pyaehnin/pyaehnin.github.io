@@ -1,4 +1,12 @@
-git status
+please select folder location
+open termial
+git cione
 git add .
 git commit -m "message"
 git push -u origin main/master branch name
+
+
+new repo
+-git init
+-git remote add origin url[git hub repo
+-git remoat show origin
